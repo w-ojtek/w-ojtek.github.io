@@ -1,0 +1,50 @@
+
+body, html {
+  height: 100%;
+}
+.bg {
+  /* The image used */
+  background-image: url("Banff.jpg");
+
+  /* Half height */
+  padding-top:20%;
+
+  /* Center and scale the image nicely */
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+}
+
+.Wojtekheading {
+
+  font-family: "Times New Roman", Times, serif;
+  color: white;
+  /* text-decoration: underline;
+  */
+  text-align: center;
+  padding-bottom:20%;
+  padding-right: 40%;
+
+
+}
+
+.lh{
+line-height: 0.7;
+
+}
+.imgsrc{
+  padding-bottom:5%;
+  padding-left:50%;
+
+
+}
+
+.nav-item{
+color: blue;
+background-color: white;
+border-radius: 10%;
+
+
+}
