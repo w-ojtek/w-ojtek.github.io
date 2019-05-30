@@ -1,4 +1,5 @@
 
+
 body, html {
   height: 100%;
 }
@@ -31,7 +32,7 @@ body, html {
 }
 
 .lh{
-line-height: 0.7;
+line-height: 0.9;
 
 }
 .imgsrc{
@@ -46,5 +47,48 @@ color: blue;
 background-color: white;
 border-radius: 10%;
 
+
+}
+
+
+.pt2{
+background-color: white;
+text-align: center;
+font-family: serif;
+ font: Times;
+
+}
+
+
+.pt3{
+  background-color: rgb(200, 222, 249) ;
+
+  text-align: center;
+  font-family: serif;
+   font: Times;
+
+}
+
+.sectionheadings{
+  font-family:serif;
+  font: Times:
+  text-align: center;
+
+}
+
+.sectionsubheadings{
+  font-family:serif;
+  font: Times:
+  text-align: center;
+  font-size: 0.75;
+
+
+}
+
+
+.paragraphstyling{
+padding left:0.1;
+padding-right: 0.1;
+ text-align: center;
 
 }
